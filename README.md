@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio</h1>
 <h3 align="center">A student from the Microverse´s program</h3>
 
-- 🔭 I’m currently working **as small web**
+- 🔭 I’m currently working **as small web developer**
 
 - 🌱 I’m currently learning **JavaScript, React, Dart**
 
