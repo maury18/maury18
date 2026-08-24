@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Html, Css, JavaScript**
 
-- 📫 How to reach me **tryptic-st@outlook.com**
+- 📫 How to reach me **trypticst@gmail.com**
 
 - ⚡ Fun fact **Love to play League of Legends**
 
